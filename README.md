@@ -1,7 +1,7 @@
 ### Hi there 🦄
 
 - 🔭 I’m currently working on 🤖 push_swap 🤖
-- 🌱 I’m currently learning ✨C✨
+- 🌱 learning ✨C✨
 
 <!--
 **DjoykeAbyah/DjoykeAbyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
