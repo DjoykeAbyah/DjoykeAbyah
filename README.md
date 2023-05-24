@@ -1,6 +1,5 @@
 ### ✨: Hi there ✨:
 
-- I’m currently working on 🤖 push_swap 🤖
 - learning ✨C✨
 
 <!--
