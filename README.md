@@ -20,7 +20,6 @@ Thank you for taking the time to learn a bit about me. If you have any questions
 
 ✨ Happy coding! ✨
 
-[Wind_Rises_.pdf](https://github.com/DjoykeAbyah/DjoykeAbyah/files/11559351/Wind_Rises_.pdf)
 
 
 <!--
