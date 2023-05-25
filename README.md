@@ -1,4 +1,4 @@
-# 🦄 🚀 Welcome to Djoyke's GitHub Profile! 🚀 🦄
+## 🦄 🚀 Welcome to Djoyke's GitHub Profile! 🚀 🦄
 
 Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my exciting coding journey.
 
