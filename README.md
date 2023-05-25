@@ -4,7 +4,7 @@ Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you 
 
 ## About Me
 
-- 🎓 I'm currently a student at Codam Coding College, which is part of the renowned 42 network. I'm diving headfirst into the world of programming and soaking up knowledge like a sponge!
+- 🎓 I'm currently a student at Codam Coding College, which is part of the innovative 42 network. I'm diving headfirst into the world of programming and soaking up knowledge like a sponge!
 - 👨‍💻 I'm focusing on mastering the art of C programming and have my sights set on conquering the realm of C++ in the near future. Each project I tackle is like a adventure that helps me extend my limits.
 - 🎨 When I'm not immersed in the world of code, I love to express my creativity through drawing, especially digital concept art. It's a fantastic way for me to unwind and let my imagination run wild.
 
