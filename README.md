@@ -4,13 +4,13 @@ Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you 
 
 ## About Me
 
-- 🎓 I'm currently a student at Codam Coding College, which is part of the innovative 42 network. I'm diving headfirst into the world of programming and soaking up knowledge like a sponge!
+- 🎓 I'm currently a student at Codam Coding College, which is part of the innovative 42 network.
 - 👨‍💻 I'm focusing on mastering the art of C programming and have my sights set on conquering the realm of C++ and Java in the near future.
-- 🎨 When I'm not immersed in the world of code, I love to express my creativity through drawing, especially digital concept art (as you can see in my drawing below). It's a fantastic way for me to unwind and let my imagination run wild.
+- 🎨 When I'm not immersed in the world of code, I love to express my creativity through drawing, especially digital concept art (as you can see in my drawing below).
 
 ## What You'll Find Here
 
-On my GitHub profile, you'll discover a variety of projects and repositories that reflect my coding journey. I'm constantly working on exciting assignments that challenge me to think outside the box. Expect to find a mix of C and (in the future) C++ and Java projects that showcase my progress and dedication to the craft.
+On my GitHub profile, you'll discover a variety of projects. I'm constantly working on exciting assignments that challenge me to think outside the box. Expect to find a mix of C and (in the future) C++ and Java projects that showcase my progress along the way.
 
 Feel free to explore my repositories, check out the code, and provide any feedback or suggestions you may have!
 
