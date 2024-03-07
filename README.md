@@ -1,7 +1,7 @@
 # 🦄 🚀 Welcome to Djoyke's GitHub Profile! 🚀 🦄
 
 ![Djoyke's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjoykeAbyah&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical icons=true&theme=syntwave)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my coding journey.
 
