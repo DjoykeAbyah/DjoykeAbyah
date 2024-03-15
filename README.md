@@ -2,6 +2,8 @@
 
 Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my coding journey.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About Me
 
 - 🎓 I'm currently a student at Codam Coding College, which is part of the innovative 42 network.
