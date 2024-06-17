@@ -1,6 +1,6 @@
 # 🦄 🚀 Welcome to Djoyke's GitHub Profile! 🚀 🦄
 
-Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my coding journey.
+Hey there! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my coding journey.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,13 +12,11 @@ Hey there, fellow curious mind! My name is Djoyke, and I'm thrilled to have you 
 
 ## What You'll Find Here
 
-On my GitHub profile, you'll discover a variety of projects. I'm constantly working on exciting assignments that challenge me to think outside the box. Expect to find a mix of C, C++ and Java projects that showcase my progress along the way.
+On my GitHub profile, you'll discover a variety of projects. I'm constantly working on exciting assignments that challenge me to think outside the box. Expect to find a mix of C, C++ that showcase my progress along the way.
 
 Feel free to explore my repositories, check out the code, and provide any feedback or suggestions you may have!
 
 Thank you for taking the time to learn a bit about me. If you have any questions or just want to say hello, feel free to reach out.
-
-✨ Happy coding! ✨
 
 ![Wind_Rises_compressed](https://github.com/DjoykeAbyah/DjoykeAbyah/assets/115019123/bdd051e6-eef1-4c3d-9800-51a8db47896a)
 
