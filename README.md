@@ -2,7 +2,7 @@
 
 Hey there! My name is Djoyke, and I'm thrilled to have you visit my GitHub profile. Let me take a moment to introduce myself and share a glimpse into my coding journey.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DjoykeAbyah&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/DjoykeAbyah/github-readme-stats)
 
 ## About Me
 
